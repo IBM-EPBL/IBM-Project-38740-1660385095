@@ -1,3 +1,3 @@
-#ASSIGNMENTS
+# ASSIGNMENTS
 
 [Assignment 1]
