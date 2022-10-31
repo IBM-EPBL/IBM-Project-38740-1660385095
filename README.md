@@ -1,7 +1,10 @@
 # Predicting the energy output of wind turbine based on weather condition
 IBM-Project-38740-1660385095
+Team id: PNT2022TMID31390
 
 Domain: Applied Data Science
+
+<img src="https://user-images.githubusercontent.com/63492911/199074833-8d00056b-dfdb-430a-b889-9600dfdfa659.png" width="500" height="350">
 
 ## Design Thinking Process
 1. [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Literature%20Survey.pdf)
