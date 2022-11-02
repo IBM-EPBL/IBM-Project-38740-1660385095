@@ -29,5 +29,5 @@ Domain: Applied Data Science
 
 ## Project Planning Phase
 1. [Project Planning](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Project%20Planning%20PNT2022TMID31390.pdf)
-2. [Burndown Charts](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Project%20Planning%20PNT2022TMID31390.pdf)
+2. [Burndown Charts](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Burndown%20charts%20PNT2022TMID31390.pdf)
 3. [Milestone & Activity List](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Milestone%20%26%20Activity%20List%20PNT2022TMID31390.xlsx)
