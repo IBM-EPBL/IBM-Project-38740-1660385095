@@ -7,3 +7,6 @@
 3. [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/ASSIGNMENTS/Team%20Lead-S_R_Vidhyambika/ASSIGNMENT3_S_R_VIDHYAMBIKA.ipynb)
 
       Dataset used : [abalone.csv](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/ASSIGNMENTS/Team%20Lead-S_R_Vidhyambika/abalone.csv)
+4. [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/ASSIGNMENTS/Team%20Lead-S_R_Vidhyambika/ASSIGNMENT4_S_R_VIDHYAMBIKA.ipynb)
+
+      Dataset used : [Mall_Customers.csv](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/ASSIGNMENTS/Team%20Lead-S_R_Vidhyambika/Mall_Customers.csv)
