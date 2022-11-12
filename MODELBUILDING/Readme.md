@@ -1,4 +1,6 @@
 # TRAINING AND TESTING DIFFERENT MODELS ON TEST
+
+In all the models the training and testing (predicting) with the dataset is done with evaluation metrics.
 ## Model 1: 
 
 1. Uses Random Forest Regressor
