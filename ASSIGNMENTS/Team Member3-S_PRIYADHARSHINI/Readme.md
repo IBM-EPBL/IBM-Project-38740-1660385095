@@ -7,3 +7,6 @@
 3. [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/ASSIGNMENTS/Team%20Member3-S_PRIYADHARSHINI/ASSIGNMENT3_S_PRIYADHARSHINI.ipynb)
 
      Dataset Used:[abalone.csv](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/ASSIGNMENTS/Team%20Member3-S_PRIYADHARSHINI/abalone.csv)
+4. [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/ASSIGNMENTS/Team%20Member3-S_PRIYADHARSHINI/Assignment4_S_PRIYADHARSHINI.ipynb)
+
+    Dataset Used:[Mall_Customers.csv](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/ASSIGNMENTS/Team%20Member3-S_PRIYADHARSHINI/Mall_Customers.csv)
