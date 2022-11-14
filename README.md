@@ -39,3 +39,11 @@ Domain: Applied Data Science
 ## Data Preprocessing
 1. [DATA PRE_PROCESSING BY VIDHYAMBIKA SR.pdf](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/DATA%20PREPROCESSING/DATA%20PRE_PROCESSING%20BY%20VIDHYAMBIKA%20SR.pdf)
 2. [DATA_PREPROCESSING_S_R_VIDHYAMBIKA.ipynb](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/%20DATA%20PREPROCESSING%20/DATA_PREPROCESSING_S_R_VIDHYAMBIKA.ipynb)
+
+## Model Building
+1. [Random Forest Regressor](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/MODELBUILDING/Model1_RandomForestRegressor_VIDHYAMBIKA.ipynb)
+2. [Random Forest Regressor (but in dataset two columns are eliminated)](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/MODELBUILDING/Model2RandomForestRegeliminating2par.ipynb)
+3. [Support Vector Regression(SVR)](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/MODELBUILDING/Model3SVR.ipynb)
+4. [Multi Linear Regression](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/MODELBUILDING/Model4multilinearregression.ipynb)
+
+The final model chosen is Random Forest Regressor (Model 1) as it gives the highest accuracy among all 4 models.
