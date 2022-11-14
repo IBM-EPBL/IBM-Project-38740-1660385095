@@ -31,3 +31,11 @@ Domain: Applied Data Science
 1. [Project Planning](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Project%20Planning%20PNT2022TMID31390.pdf)
 2. [Burndown Charts](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Burndown%20charts%20PNT2022TMID31390.pdf)
 3. [Milestone & Activity List](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Milestone%20%26%20Activity%20List%20PNT2022TMID31390.xlsx)
+
+## Data Collection
+1. [T1.csv](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/DATA%20COLLECTION/T1.csv)
+2. [Windfarm.xlsx](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/DATA%20COLLECTION/Windfarm.xlsx)
+
+## Data Preprocessing
+1. [DATA PRE_PROCESSING BY VIDHYAMBIKA SR.pdf](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/DATA%20PREPROCESSING/DATA%20PRE_PROCESSING%20BY%20VIDHYAMBIKA%20SR.pdf)
+2. [DATA_PREPROCESSING_S_R_VIDHYAMBIKA.ipynb](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/%20DATA%20PREPROCESSING%20/DATA_PREPROCESSING_S_R_VIDHYAMBIKA.ipynb)
