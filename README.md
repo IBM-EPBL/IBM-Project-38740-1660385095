@@ -61,5 +61,5 @@ The final coding of the web app is availabe in,
 
 <img src="https://user-images.githubusercontent.com/63492911/202872392-0f5d1ba0-8ee4-4bac-9522-cc2ba97c7092.png" width="500" height="350">
 
-
+Additional: [Training the model on ibm](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Train%20the%20Model%20on%20IBM)
 
