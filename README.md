@@ -49,3 +49,17 @@ Demo Video link: https://drive.google.com/drive/folders/1IcPEse21cLsErACfVqhvvTE
 4. [Multi Linear Regression](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/MODELBUILDING/Model4multilinearregression.ipynb)
 
 The final model chosen is Random Forest Regressor (Model 1) as it gives the highest accuracy among all 4 models.
+
+## Project Development Phase
+1. [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Project%20Development%20Phase/Sprint%201)
+2. [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Project%20Development%20Phase/Sprint%202)
+3. [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Project%20Development%20Phase/Sprint%203)
+4. [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Project%20Development%20Phase/Sprint%204)
+
+The final coding of the web app is,
+[Final Deliverables](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Final%20Deliverables)
+
+<img src="https://user-images.githubusercontent.com/63492911/202872392-0f5d1ba0-8ee4-4bac-9522-cc2ba97c7092.png" width="500" height="350">
+
+
+
