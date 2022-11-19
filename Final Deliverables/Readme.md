@@ -1,5 +1,5 @@
 # FINAL PROJECT
-DEMO VIDEO LINK: https://drive.google.com/drive/folders/1IcPEse21cLsErACfVqhvvTEm2de-F6ru
+DEMO VIDEO LINK: https://drive.google.com/file/d/17PAbWtoQTSSJAgJu7L4IlwcVW6YNEvHT/view?usp=sharing
 
 IBM DEPLOYED NOTEBOOK: https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Final%20Deliverables/IBM%20DEPLOYED%20NOTEBOOK/WINDPOWER_PREDICTION_VIDHYAMBIKA.ipynb
 
