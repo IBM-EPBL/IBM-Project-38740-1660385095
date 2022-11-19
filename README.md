@@ -56,7 +56,7 @@ The final model chosen is Random Forest Regressor (Model 1) as it gives the high
 3. [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Project%20Development%20Phase/Sprint%203)
 4. [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Project%20Development%20Phase/Sprint%204)
 
-The final coding of the web app is,
+The final coding of the web app is availabe in,
 [Final Deliverables](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Final%20Deliverables)
 
 <img src="https://user-images.githubusercontent.com/63492911/202872392-0f5d1ba0-8ee4-4bac-9522-cc2ba97c7092.png" width="500" height="350">
