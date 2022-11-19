@@ -5,7 +5,7 @@ Team id: PNT2022TMID31390
 
 Domain: Applied Data Science
 
-Demo Video link: https://drive.google.com/drive/folders/1IcPEse21cLsErACfVqhvvTEm2de-F6ru
+Demo Video link: https://drive.google.com/file/d/17PAbWtoQTSSJAgJu7L4IlwcVW6YNEvHT/view?usp=sharing
 
 <img src="https://user-images.githubusercontent.com/63492911/199074833-8d00056b-dfdb-430a-b889-9600dfdfa659.png" width="500" height="350">
 
