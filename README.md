@@ -61,5 +61,8 @@ The final coding of the web app is availabe in,
 
 <img src="https://user-images.githubusercontent.com/63492911/202872392-0f5d1ba0-8ee4-4bac-9522-cc2ba97c7092.png" width="500" height="350">
 
-Additional: [Training the model on ibm](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Train%20the%20Model%20on%20IBM)
+## Additional: 
+
+1. [Training the model on ibm](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Train%20the%20Model%20on%20IBM)
+2. The part of the main program (app.py) i.e weathercheck.py shown in the video is this [link](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Final%20Deliverables/PART%20OF%20APP_PY%20PROGRAM%20WEATHERCHECK%20SHOWN%20IN%20VIDEO/weathercheck.py)
 
