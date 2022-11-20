@@ -54,6 +54,12 @@ Demo Video link: https://drive.google.com/file/d/17PAbWtoQTSSJAgJu7L4IlwcVW6YNEv
 
 The final model chosen is Random Forest Regressor (Model 1) as it gives the highest accuracy among all 4 models.
 
+## Visualization of different models used in model building
+1. [Visualising M1](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/VISUALIZATION%20OF%20DIFFERENT%20MODELS%20USED%20IN%20MODEL%20BUILDING/VISUALISING_M1ipynb.ipynb)
+2. [Visualising M2](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/VISUALIZATION%20OF%20DIFFERENT%20MODELS%20USED%20IN%20MODEL%20BUILDING/VISUALISINGM2.ipynb)
+3. [Visualising M3](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/VISUALIZATION%20OF%20DIFFERENT%20MODELS%20USED%20IN%20MODEL%20BUILDING/VISUALISING_M3.ipynb)
+4. [Visualising M4](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/VISUALIZATION%20OF%20DIFFERENT%20MODELS%20USED%20IN%20MODEL%20BUILDING/VISUALISING_M4.ipynb)
+
 ## Project Development Phase
 1. [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Project%20Development%20Phase/Sprint%201)
 2. [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Project%20Development%20Phase/Sprint%202)
