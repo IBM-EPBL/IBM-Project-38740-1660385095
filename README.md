@@ -6,6 +6,7 @@ Team id: PNT2022TMID31390
 Domain: Applied Data Science
 
 Demo Video link: https://drive.google.com/file/d/17PAbWtoQTSSJAgJu7L4IlwcVW6YNEvHT/view?usp=sharing
+PROJECT REPORT LINK: https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Final%20Deliverables/PROJECT%20REPORT%20PNT2022TMID31390.pdf
 
 <img src="https://user-images.githubusercontent.com/63492911/199074833-8d00056b-dfdb-430a-b889-9600dfdfa659.png" width="500" height="350">
 
@@ -17,6 +18,8 @@ Demo Video link: https://drive.google.com/file/d/17PAbWtoQTSSJAgJu7L4IlwcVW6YNEv
 1)  [Empathy Map Canvas](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/b23c37250925fbd1294ae7f48a9f7556a91315e8/Empathy%20Map%20Canvas.pdf)
 
 2)  [Problem Statement, Brainstorming and Prioritization of ideas](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20Statement%2C%20Brainstorming%20and%20Prioritization%20of%20ideas.pdf)
+3) [Problem Statement](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Define%20Problem%20Statements%20PNT2022TMID31390.pdf)
+
 
 ## Project Design Phase I
 1. [Problem-Solution fit](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Problem_solution_fit-PNT2022TMID31390.pdf)
@@ -58,11 +61,21 @@ The final model chosen is Random Forest Regressor (Model 1) as it gives the high
 
 The final coding of the web app is availabe in,
 [Final Deliverables](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Final%20Deliverables)
-
+## CODE
+1. [SCREENSHOTS](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Final%20Deliverables/screenshots)
+2. [TEMPLATES](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Final%20Deliverables/templates)
+3. [STATIC](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Final%20Deliverables/static)
+4. [APP.PY](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Final%20Deliverables/app.py)
+5. [NOTIFICATIONSYSTEM.PY](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Final%20Deliverables/notificationsystem.py)
 <img src="https://user-images.githubusercontent.com/63492911/202872392-0f5d1ba0-8ee4-4bac-9522-cc2ba97c7092.png" width="500" height="350">
+
+## TESTING
+1. [PERFORMANCE TESTING](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Final%20Deliverables/Performance%20Testing)
+2. [USER ACCEPTANCE TESTING](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Final%20Deliverables/User%20Acceptance%20Testing)
 
 ## Additional: 
 
 1. [Training the model on ibm](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/tree/main/Train%20the%20Model%20on%20IBM)
 2. The part of the main program (app.py) i.e weathercheck.py shown in the video is this [link](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Final%20Deliverables/PART%20OF%20APP_PY%20PROGRAM%20WEATHERCHECK%20SHOWN%20IN%20VIDEO/weathercheck.py)
+3. IPYNB document deployed initially is [DEPLOYMENT_S_R_VIDHYAMBIKA.ipynb](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Final%20Deliverables/IPYNB%20DOCUMENT%20DEPLOYED%20INITIALLY/DEPLOYMENT_S_R_VIDHYAMBIKA.ipynb)
 
