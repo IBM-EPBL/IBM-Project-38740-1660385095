@@ -46,7 +46,7 @@ Demo Video link: https://drive.google.com/file/d/17PAbWtoQTSSJAgJu7L4IlwcVW6YNEv
 1. [DATA PRE_PROCESSING BY VIDHYAMBIKA SR.pdf](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/DATA%20PREPROCESSING/DATA%20PRE_PROCESSING%20BY%20VIDHYAMBIKA%20SR.pdf)
 2. [DATA_PREPROCESSING_S_R_VIDHYAMBIKA.ipynb](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/%20DATA%20PREPROCESSING%20/DATA_PREPROCESSING_S_R_VIDHYAMBIKA.ipynb)
 
-## Model Building
+## Model Building & Evaluation
 1. [Random Forest Regressor](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/MODELBUILDING/Model1_RandomForestRegressor_VIDHYAMBIKA.ipynb)
 2. [Random Forest Regressor (but in dataset two columns are eliminated)](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/MODELBUILDING/Model2RandomForestRegeliminating2par.ipynb)
 3. [Support Vector Regression(SVR)](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/MODELBUILDING/Model3SVR.ipynb)
@@ -54,7 +54,7 @@ Demo Video link: https://drive.google.com/file/d/17PAbWtoQTSSJAgJu7L4IlwcVW6YNEv
 
 The final model chosen is Random Forest Regressor (Model 1) as it gives the highest accuracy among all 4 models.
 
-## Visualization of different models used in model building
+## Visualization of different models developed/built in model building
 1. [Visualising M1](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/VISUALIZATION%20OF%20DIFFERENT%20MODELS%20USED%20IN%20MODEL%20BUILDING/VISUALISING_M1ipynb.ipynb)
 2. [Visualising M2](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/VISUALIZATION%20OF%20DIFFERENT%20MODELS%20USED%20IN%20MODEL%20BUILDING/VISUALISINGM2.ipynb)
 3. [Visualising M3](https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/VISUALIZATION%20OF%20DIFFERENT%20MODELS%20USED%20IN%20MODEL%20BUILDING/VISUALISING_M3.ipynb)
