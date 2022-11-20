@@ -5,8 +5,9 @@ Team id: PNT2022TMID31390
 
 Domain: Applied Data Science
 
-Demo Video link: https://drive.google.com/file/d/17PAbWtoQTSSJAgJu7L4IlwcVW6YNEvHT/view?usp=sharing
 PROJECT REPORT LINK: https://github.com/IBM-EPBL/IBM-Project-38740-1660385095/blob/main/Final%20Deliverables/PROJECT%20REPORT%20PNT2022TMID31390.pdf
+
+Demo Video link: https://drive.google.com/file/d/17PAbWtoQTSSJAgJu7L4IlwcVW6YNEvHT/view?usp=sharing
 
 <img src="https://user-images.githubusercontent.com/63492911/199074833-8d00056b-dfdb-430a-b889-9600dfdfa659.png" width="500" height="350">
 
